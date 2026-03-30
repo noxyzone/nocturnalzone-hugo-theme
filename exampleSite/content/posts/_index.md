@@ -1,7 +1,7 @@
 +++
 title = 'Posts'
-date = 2023-01-01T08:30:00-07:00
+date = 2026-03-01T08:30:00+09:00
 draft = false
 +++
 
-Tempor est exercitation ad qui pariatur quis adipisicing aliquip nisi ea consequat ipsum occaecat. Nostrud consequat ullamco laboris fugiat esse esse adipisicing velit laborum ipsum incididunt ut enim. Dolor pariatur nulla quis fugiat dolore excepteur. Aliquip ad quis aliqua enim do consequat.
+Field notes, product thinking, and technical essays from a quiet development practice.

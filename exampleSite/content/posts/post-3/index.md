@@ -1,12 +1,17 @@
 +++
-title = 'Post 3'
-date = 2023-03-15T11:00:00-07:00
+title = 'Quiet Tokyo Night Notes'
+date = 2026-03-24T11:00:00+09:00
 draft = false
-tags = ['red','green','blue']
+tags = ['journal', 'photography', 'atmosphere']
+thumbnail = 'tokyo-night-zone.png'
 +++
 
-Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.
+Some layouts only come into focus when they carry an image. A quiet Tokyo street, a restrained skyline, and a few measured paragraphs are enough to reveal whether the page can hold atmosphere as well as structure.
 
-![Bryce Canyon National Park](bryce-canyon.jpg)
+<!--more-->
 
-Sit excepteur do velit veniam mollit in nostrud laboris incididunt ea. Amet eu cillum ut reprehenderit culpa aliquip labore laborum amet sit sit duis. Laborum id proident nostrud dolore laborum reprehenderit quis mollit nulla amet veniam officia id id. Aliquip in deserunt qui magna duis qui pariatur officia sunt deserunt.
+![Quiet Tokyo Night Zone](tokyo-night-zone.png)
+
+This entry exists to show that the theme can move from technical writing to nocturnal visual notes without changing character. The typography stays steady, the image sits naturally in the flow, and the page remains calm even when the scene opens onto a larger city at night.
+
+A good night theme should not merely darken the background. It should make the content feel at home in low light — images softer against the surrounding space, text legible without glare, and the overall atmosphere closer to a reading lamp than a screen.

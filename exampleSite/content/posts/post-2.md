@@ -1,10 +1,14 @@
 +++
-title = 'Post 2'
-date = 2023-02-15T10:00:00-07:00
+title = 'Why Editorial Spacing Matters'
+date = 2026-03-18T10:00:00+09:00
 draft = false
-tags = ['red','green']
+tags = ['design', 'writing']
 +++
 
-Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.
+Spacing is not decorative padding. It is part of the reading system. When margins, line length, and list density are tuned carefully, the page begins to feel less like a dashboard and more like a publication.
 
-Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.
+<!--more-->
+
+That is the spirit behind NocturnalZone. It favors measured hierarchy over loud contrast, and it gives metadata a place without letting it overtake the article itself.
+
+Good editorial spacing also sets a pace. Generous margins between paragraphs ask the reader to pause and consider, rather than rush to the next heading. In a theme built for journals and technical notes, that pause is not wasted time — it is where understanding takes hold.

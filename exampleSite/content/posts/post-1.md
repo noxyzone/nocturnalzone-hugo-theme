@@ -1,10 +1,14 @@
 +++
-title = 'Post 1'
-date = 2023-01-15T09:00:00-07:00
+title = 'Designing A Quieter Home Page'
+date = 2026-03-12T09:00:00+09:00
 draft = false
-tags = ['red']
+tags = ['design']
 +++
 
-Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.
+Most landing pages try to prove themselves in the first second. This theme takes the opposite route: fewer surfaces, steadier spacing, and a title that can breathe before the rest of the interface speaks.
 
-Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.
+<!--more-->
+
+The goal is not to look empty. The goal is to remove the kind of noise that competes with writing. A restrained header, confident typography, and a deliberate rhythm between sections can make even a small site feel composed.
+
+When there is less to look at, each remaining element carries more weight. The eye stops scanning and starts reading. That shift — from glancing to dwelling — is the real measure of whether a home page works.
